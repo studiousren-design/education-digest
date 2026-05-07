@@ -1,0 +1,13 @@
+# AI in Education Digest — 2026-05-07
+
+**[Global Higher Education]** — AI-generated summaries embedded in platforms like Google and ChatGPT are replacing traditional academic search, with AI systems presenting marginal or atypical perspectives as representative and shaping students' research projects from the outset. The economics of information are also shifting as advertising becomes embedded in AI-generated responses, quietly blurring the boundary between neutral information and promotion in ways students are unlikely to notice.
+*For educators:* When a student begins a research project from an AI-generated summary rather than primary sources, what mechanisms exist in your institution to help them detect and correct skewed framing before it becomes the foundation of their entire argument?
+Source: https://www.timeshighereducation.com/campus/how-ai-quietly-distorting-academic-enquiry-and-what-do-about-it
+
+**[Europe — 217 universities across the European University Association]** — A major EUA survey of 217 member universities found that more than two-thirds report their PhD students are using AI in research, with 49% in an auxiliary capacity and 17.5% using it in both conducting and supporting their work. In a notable counterpoint to typical institutional caution, doctoral education leaders broadly see "more opportunity than challenges" in the rise of AI tools.
+*For educators:* If the leaders overseeing doctoral programmes are more optimistic about AI than the academics doing day-to-day supervision, what does that gap reveal about who should be shaping your institution's AI governance policies — and who is being left out of the conversation?
+Source: https://www.timeshighereducation.com/news/two-thirds-universities-report-ai-use-among-doctoral-students
+
+**[United States — K–12 classrooms]** — A two-year research project on AI integration in K–12 found that uptake remains minimal, with even engineering and computer science teachers struggling to identify clear instructional use cases for AI tools. The researchers argue that teaching computational thinking — the underlying concepts that make AI systems possible — produces more durable student skills than proficiency with any specific tool.
+*For educators:* If the most technology-confident teachers in your school are still unclear how to meaningfully embed AI into instruction, what does that suggest about the pace and sequencing of professional development your district is currently offering?
+Source: https://www.edsurge.com/news/2026-03-30-from-hello-world-to-ai-what-skills-actually-prepare-students-for-the-future
