@@ -1,6 +1,3 @@
-https://www.timeshighereducation.com/campus/how-ai-quietly-distorting-academic-enquiry-and-what-do-about-it
-https://www.timeshighereducation.com/news/two-thirds-universities-report-ai-use-among-doctoral-students
-https://www.edsurge.com/news/2026-03-30-from-hello-world-to-ai-what-skills-actually-prepare-students-for-the-future
 https://www.timeshighereducation.com/news/employers-fear-graduates-lack-adaptability-ai-reshapes-work
 https://www.timeshighereducation.com/campus/what-does-ai-literacy-healthcare-look
 https://www.timeshighereducation.com/campus/genai-has-turned-teachers-auditors
@@ -13,3 +10,6 @@ https://www.timeshighereducation.com/campus/students-are-asking-ai-guidance-not-
 https://www.timeshighereducation.com/campus/why-ai-literacy-belongs-firstyear-experience
 https://www.timeshighereducation.com/campus/how-universal-design-learning-can-build-ai-proficiency
 https://www.timeshighereducation.com/news/ai-risk-university-jobs-despite-staff-believing-roles-are-safe
+https://www.timeshighereducation.com/campus/think-again-reclaiming-our-cognitive-debt-ai
+https://www.timeshighereducation.com/news/more-coordinated-investment-needed-unlock-asian-ai-potential
+https://www.timeshighereducation.com/news/research-funders-flooded-ai-assisted-applications
