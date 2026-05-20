@@ -1,6 +1,3 @@
-https://www.timeshighereducation.com/campus/why-ai-literacy-belongs-firstyear-experience
-https://www.timeshighereducation.com/campus/how-universal-design-learning-can-build-ai-proficiency
-https://www.timeshighereducation.com/news/ai-risk-university-jobs-despite-staff-believing-roles-are-safe
 https://www.timeshighereducation.com/campus/think-again-reclaiming-our-cognitive-debt-ai
 https://www.timeshighereducation.com/news/more-coordinated-investment-needed-unlock-asian-ai-potential
 https://www.timeshighereducation.com/news/research-funders-flooded-ai-assisted-applications
@@ -13,3 +10,6 @@ https://www.timeshighereducation.com/campus/how-ai-quietly-distorting-academic-e
 https://www.timeshighereducation.com/campus/why-your-ai-training-programme-wont-create-ailiterate-university
 https://www.timeshighereducation.com/campus/safeguards-against-genai-hallucination-literature-reviews
 https://www.timeshighereducation.com/campus/vibe-coding-belongs-your-universitys-genai-literacy-strategy
+https://www.timeshighereducation.com/news/employers-fear-graduates-lack-adaptability-ai-reshapes-work
+https://www.timeshighereducation.com/news/looming-eu-ai-act-could-force-universities-change-everything
+https://www.timeshighereducation.com/news/ai-marking-trial-not-looking-replace-humans
