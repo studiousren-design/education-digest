@@ -1,6 +1,3 @@
-https://www.timeshighereducation.com/news/ban-authors-submitting-ai-content-welcome-unenforceable
-https://www.timeshighereducation.com/news/endemic-micro-cheating-academics-going-unpunished
-https://www.timeshighereducation.com/news/virtual-lecturers-be-overseen-academics-ai-university
 https://www.timeshighereducation.com/news/employers-fear-graduates-lack-adaptability-ai-reshapes-work
 https://www.timeshighereducation.com/news/retractions-must-be-start-ai-slop-clean-says-critic
 https://www.edsurge.com/news/2026-05-28-why-college-degrees-matter-in-the-age-of-ai
@@ -13,3 +10,6 @@ https://www.timeshighereducation.com/news/university-ai-policies-promise-support
 https://www.edsurge.com/news/2026-06-02-report-school-it-officials-worried-about-ai-adoption-cybersecurity
 https://www.timeshighereducation.com/news/universities-risk-over-assessing-response-ai
 https://www.timeshighereducation.com/news/ai-risk-university-jobs-despite-staff-believing-roles-are-safe
+https://www.timeshighereducation.com/news/surrey-redesigns-all-degrees-embed-discipline-specific-ai
+https://www.timeshighereducation.com/news/looming-eu-ai-act-could-force-universities-change-everything
+https://www.timeshighereducation.com/news/research-funders-flooded-ai-assisted-applications
