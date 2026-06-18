@@ -1,6 +1,3 @@
-https://www.timeshighereducation.com/news/tackle-ai-slop-education-research-or-lose-teacher-trust
-https://www.timeshighereducation.com/news/edinburgh-staff-urge-university-ditch-openai-deal
-https://www.edsurge.com/news/2026-06-03-what-to-do-about-ai-begin-by-talking-about-it
 https://www.edsurge.com/news/can-schools-afford-an-ai-first-future
 https://www.timeshighereducation.com/news/retaining-human-oversight-ai-marking-complex-trial-finds
 https://www.timeshighereducation.com/news/university-ai-policies-promise-support-deliver-surveillance
@@ -13,3 +10,6 @@ https://www.timeshighereducation.com/news/looming-eu-ai-act-could-force-universi
 https://www.timeshighereducation.com/campus/teacherdirected-instruction-dead-long-live-future-education
 https://www.timeshighereducation.com/campus/ai-use-tailored-creativeindustry-programmes-requires-institutionwide-support
 https://www.timeshighereducation.com/campus/framework-ensuring-student-ai-proficiency
+https://www.timeshighereducation.com/news/ai-double-edged-sword-increases-anxiety-among-students
+https://www.timeshighereducation.com/news/more-nottingham-style-cyberattacks-case-when-not-if
+https://www.edsurge.com/news/i-built-an-ai-grading-tool-then-a-student-thanked-me-for-words-i-didnt-write
