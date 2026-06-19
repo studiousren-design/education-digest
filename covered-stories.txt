@@ -1,6 +1,3 @@
-https://www.edsurge.com/news/can-schools-afford-an-ai-first-future
-https://www.timeshighereducation.com/news/retaining-human-oversight-ai-marking-complex-trial-finds
-https://www.timeshighereducation.com/news/university-ai-policies-promise-support-deliver-surveillance
 https://www.timeshighereducation.com/news/inconsistent-ai-detection-should-prompt-assessment-rethink
 https://www.edsurge.com/news/ai-is-in-schools-teachers-are-not-ready
 https://www.timeshighereducation.com/depth/are-academics-making-em-dash-ai
@@ -13,3 +10,6 @@ https://www.timeshighereducation.com/campus/framework-ensuring-student-ai-profic
 https://www.timeshighereducation.com/news/ai-double-edged-sword-increases-anxiety-among-students
 https://www.timeshighereducation.com/news/more-nottingham-style-cyberattacks-case-when-not-if
 https://www.edsurge.com/news/i-built-an-ai-grading-tool-then-a-student-thanked-me-for-words-i-didnt-write
+https://www.timeshighereducation.com/news/academic-industry-phd-students-face-conflicting-priorities
+https://www.timeshighereducation.com/world-university-rankings/ai-improving-our-rankings-human-expertise-will-remain-vital
+https://www.timeshighereducation.com/campus/ai-literacy-everyones-responsibility
