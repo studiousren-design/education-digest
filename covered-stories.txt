@@ -1,6 +1,3 @@
-https://www.edsurge.com/news/can-schools-afford-an-ai-first-future
-https://www.timeshighereducation.com/news/all-or-nothing-approach-ai-risks-shutting-down-innovation
-https://www.edsurge.com/news/ai-wont-replace-educators-but-it-is-changing-how-students-learn
 https://www.timeshighereducation.com/news/inconsistent-ai-detection-should-prompt-assessment-rethink
 https://www.timeshighereducation.com/news/university-ai-policies-promise-support-deliver-surveillance
 https://www.edsurge.com/news/ai-is-in-schools-teachers-are-not-ready
@@ -13,3 +10,6 @@ https://www.timeshighereducation.com/campus/reimagining-higher-education-aidrive
 https://www.timeshighereducation.com/news/new-ai-agents-pose-existential-threat-how-grants-are-awarded
 https://www.timeshighereducation.com/news/ai-double-edged-sword-increases-anxiety-among-students
 https://www.edsurge.com/news/i-built-an-ai-grading-tool-then-a-student-thanked-me-for-words-i-didnt-write
+https://www.timeshighereducation.com/depth/are-universities-returning-person-exams-combat-ai-cheating
+https://www.timeshighereducation.com/news/surrey-redesigns-all-degrees-embed-discipline-specific-ai
+https://www.timeshighereducation.com/news/looming-eu-ai-act-could-force-universities-change-everything
