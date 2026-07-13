@@ -1,6 +1,3 @@
-https://www.edsurge.com/news/podcast-can-an-algorithm-replace-a-teachers-instinct
-https://www.timeshighereducation.com/campus/case-omnichannel-ai-assistant
-https://www.edsurge.com/news/international-society-for-transforming-education-expands-its-ai-ready-graduate-framework
 https://www.timeshighereducation.com/news/ai-marking-trial-not-looking-replace-humans
 https://www.timeshighereducation.com/campus/how-integrate-aienabled-lifelong-learning-across-disciplines
 https://www.timeshighereducation.com/opinion/south-koreas-universities-cant-drive-its-ai-transition-without-better-policy
@@ -13,3 +10,6 @@ https://www.timeshighereducation.com/news/academics-marking-students-down-when-t
 https://www.timeshighereducation.com/campus/teaching-design-3d-blending-sketching-ai-and-ar
 https://www.timeshighereducation.com/campus/how-agentic-ai-brings-interactivity-stem-learning
 https://www.timeshighereducation.com/news/ai-risk-university-jobs-despite-staff-believing-roles-are-safe
+https://www.timeshighereducation.com/campus/building-consistent-university-voice
+https://www.timeshighereducation.com/news/majority-students-deny-using-ai-when-forbidden-study-finds
+https://www.timeshighereducation.com/campus/i-start-my-lectures-introducing-my-teaching-assistant-genai
