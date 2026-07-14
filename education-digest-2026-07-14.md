@@ -1,0 +1,13 @@
+# AI in Education Digest — 2026-07-14
+
+**United States — Northern Arizona University / rural districts** — A rural-serving university led a professional development effort across three rural Arizona school districts, having each supply a superintendent, an instructional leader and three classroom teachers who spent two and a half months picking a specific problem (writing skills, engagement, lesson relevance), testing an AI tool against it, and collecting their own data on whether it actually helped. The approach deliberately taught AI literacy and foundational judgment first, rather than handing teachers a list of tools, on the theory that under-resourced rural districts need to be able to evaluate new tools themselves rather than depend on one-off product training.
+*For educators:* If your district can only afford to teach one thing about AI — a specific tool, or the judgment to evaluate any tool — which produces more lasting capacity?
+Source: https://www.edsurge.com/news/in-rural-districts-ai-resources-for-educators-are-scarce
+
+**United States — national K-12 policy landscape** — A new study coded formal AI policies across 122 school districts in 38 states onto a five-level governance continuum and found most districts are still in "wait and watch" mode, without the proactive guardrails that would let them move from reacting to student AI use toward deliberately designing AI-enabled classrooms. The researchers argue this leaves individual teachers absorbing decisions about ethics, data privacy and equitable access that should be handled at the district or state level.
+*For educators:* If your school has no formal AI policy yet, are you and your colleagues already making district-level calls on ethics and privacy by default, one classroom at a time?
+Source: https://www.edsurge.com/news/study-the-national-ai-policy-landscape-in-k-12-education
+
+**United Kingdom — student AI use, international angle** — New analysis finds almost a third of UK students report not using AI in their studies at all, even as non-native English speakers are notably more likely to rely on it regularly — often, the argument goes, as a language-levelling tool rather than a shortcut. The piece frames this as a case against blanket AI bans, since removing AI wouldn't just remove a shortcut for some students, it would remove language support that other students depend on to participate on equal footing.
+*For educators:* If AI functions as a language equalizer for some of your students, does a uniform classroom AI policy quietly disadvantage exactly the students it's meant to protect?
+Source: https://www.timeshighereducation.com/depth/ai-era-human-struggle-can-no-longer-be-point-research
