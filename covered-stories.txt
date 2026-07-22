@@ -1,6 +1,3 @@
-https://www.timeshighereducation.com/campus/teaching-design-3d-blending-sketching-ai-and-ar
-https://www.timeshighereducation.com/campus/how-agentic-ai-brings-interactivity-stem-learning
-https://www.timeshighereducation.com/news/ai-risk-university-jobs-despite-staff-believing-roles-are-safe
 https://www.timeshighereducation.com/campus/building-consistent-university-voice
 https://www.timeshighereducation.com/news/majority-students-deny-using-ai-when-forbidden-study-finds
 https://www.timeshighereducation.com/campus/i-start-my-lectures-introducing-my-teaching-assistant-genai
@@ -13,3 +10,6 @@ https://www.timeshighereducation.com/news/ukri-accelerate-research-grant-funding
 https://www.edsurge.com/news/ai-meets-esl-and-teachers-are-intrigued
 https://www.timeshighereducation.com/campus/your-students-use-genai-lets-redesign-learning-so-thinking-still-happens
 https://www.edsurge.com/news/how-my-school-used-common-sense-and-collaboration-to-confront-ai
+https://www.edsurge.com/news/ai-is-in-schools-teachers-are-not-ready
+https://www.edsurge.com/news/can-schools-afford-an-ai-first-future
+https://www.timeshighereducation.com/campus/enabling-responsible-ai-adoption-through-governance
