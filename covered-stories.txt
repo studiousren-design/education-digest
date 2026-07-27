@@ -1,6 +1,3 @@
-https://www.edsurge.com/news/anthropic-introduces-claude-for-teachers
-https://www.timeshighereducation.com/news/universities-join-new-uk-defence-alliance-boost-research
-https://www.timeshighereducation.com/news/ukri-accelerate-research-grant-funding-decisions
 https://www.edsurge.com/news/ai-meets-esl-and-teachers-are-intrigued
 https://www.timeshighereducation.com/campus/your-students-use-genai-lets-redesign-learning-so-thinking-still-happens
 https://www.edsurge.com/news/how-my-school-used-common-sense-and-collaboration-to-confront-ai
@@ -13,3 +10,6 @@ https://www.timeshighereducation.com/news/collaborate-globally-retain-strength-a
 https://www.edsurge.com/news/the-language-barrier-is-the-real-barrier-in-edtech
 https://www.edsurge.com/news/we-must-stop-using-ai-to-level-down-our-students
 https://www.timeshighereducation.com/news/awards-arab-world-2026-shortlist-announced
+https://www.timeshighereducation.com/campus/genai-teaching-colleague-assessment-case-study
+https://www.timeshighereducation.com/campus/case-omnichannel-ai-assistant
+https://www.timeshighereducation.com/news/majority-students-deny-using-ai-when-forbidden-study-finds
