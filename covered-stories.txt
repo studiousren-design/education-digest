@@ -1,6 +1,3 @@
-https://www.timeshighereducation.com/campus/building-consistent-university-voice
-https://www.timeshighereducation.com/news/majority-students-deny-using-ai-when-forbidden-study-finds
-https://www.timeshighereducation.com/campus/i-start-my-lectures-introducing-my-teaching-assistant-genai
 https://www.edsurge.com/news/in-rural-districts-ai-resources-for-educators-are-scarce
 https://www.edsurge.com/news/study-the-national-ai-policy-landscape-in-k-12-education
 https://www.timeshighereducation.com/depth/ai-era-human-struggle-can-no-longer-be-point-research
@@ -13,3 +10,6 @@ https://www.timeshighereducation.com/news/ai-usage-higher-among-american-student
 https://www.timeshighereducation.com/news/asia-embraces-philosophy-and-ai-courses
 https://www.timeshighereducation.com/campus/how-genai-can-amplify-cocreation-higher-education
 https://www.edsurge.com/news/what-does-ai-cost-when-we-skip-the-work
+https://www.timeshighereducation.com/news/academics-moving-away-outright-bans-ai-study-finds
+https://www.timeshighereducation.com/news/middle-east-bets-ai-research-strengthen-its-universities
+https://www.edsurge.com/news/2025-12-11-teaching-machines-to-spot-human-errors-in-math-assignments
