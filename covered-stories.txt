@@ -1,6 +1,3 @@
-https://www.edsurge.com/news/anthropic-introduces-claude-for-teachers
-https://www.timeshighereducation.com/news/universities-join-new-uk-defence-alliance-boost-research
-https://www.timeshighereducation.com/news/ukri-accelerate-research-grant-funding-decisions
 https://www.edsurge.com/news/ai-wont-replace-educators-but-it-is-changing-how-students-learn
 https://www.timeshighereducation.com/depth/are-universities-returning-person-exams-combat-ai-cheating
 https://www.timeshighereducation.com/news/ai-usage-higher-among-american-students-finds-turnitin
@@ -13,3 +10,6 @@ https://www.edsurge.com/news/2025-12-11-teaching-machines-to-spot-human-errors-i
 https://www.timeshighereducation.com/news/university-launches-compulsory-artificial-intelligence-module
 https://www.timeshighereducation.com/news/strange-case-einstein-ai-spotlights-chatbot-concerns
 https://www.edsurge.com/news/2025-06-09-a-district-a-diagnostic-and-a-drive-for-ai-readiness
+https://www.timeshighereducation.com/news/caution-urged-over-blanket-roll-out-ai-staff-and-students
+https://www.edsurge.com/news/what-should-students-still-have-to-do-for-themselves
+https://www.edsurge.com/news/ai-meets-esl-and-teachers-are-intrigued
