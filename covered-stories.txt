@@ -1,6 +1,3 @@
-https://www.edsurge.com/news/ai-wont-replace-educators-but-it-is-changing-how-students-learn
-https://www.timeshighereducation.com/depth/are-universities-returning-person-exams-combat-ai-cheating
-https://www.timeshighereducation.com/news/ai-usage-higher-among-american-students-finds-turnitin
 https://www.timeshighereducation.com/news/asia-embraces-philosophy-and-ai-courses
 https://www.timeshighereducation.com/campus/how-genai-can-amplify-cocreation-higher-education
 https://www.edsurge.com/news/what-does-ai-cost-when-we-skip-the-work
@@ -13,3 +10,6 @@ https://www.edsurge.com/news/2025-06-09-a-district-a-diagnostic-and-a-drive-for-
 https://www.timeshighereducation.com/news/caution-urged-over-blanket-roll-out-ai-staff-and-students
 https://www.edsurge.com/news/what-should-students-still-have-to-do-for-themselves
 https://www.edsurge.com/news/ai-meets-esl-and-teachers-are-intrigued
+https://www.timeshighereducation.com/news/virtual-lecturers-be-overseen-academics-ai-university
+https://www.timeshighereducation.com/news/ai-risk-university-jobs-despite-staff-believing-roles-are-safe
+https://www.edsurge.com/news/in-rural-districts-ai-resources-for-educators-are-scarce
