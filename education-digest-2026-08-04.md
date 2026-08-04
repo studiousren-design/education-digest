@@ -1,0 +1,16 @@
+# AI in Education Digest — 2026-08-04
+
+**United States — a principal's account of a translation request** — EdSurge shares a school principal's essay on a moment when a teenage student objected to having a message translated for his mother, revealing that the request was never really about language — it was about protecting her dignity and sense of belonging after years of feeling misunderstood by school authority figures. The piece argues that automated translation tools can convert words in seconds, but the trust needed to actually reach multilingual families still depends on human relationship-building that AI can't substitute for.
+*For educators:* Where in your own communication with families might a fast, accurate AI translation still fail to convey what actually needs to be understood?
+Source: https://www.edsurge.com/news/translating-dignity-not-just-language
+
+**United Kingdom — 10 universities, Jisc-led marking trial** — Times Higher Education reports on early results from a year-long UK trial in which ten universities used the AI platform Graide to draft marking and feedback on student work from rubrics and example essays, with an academic required to review and confirm every AI-generated grade before it reached students. The initial findings show that keeping meaningful human oversight of AI marking is "more complex than one might initially think," and, contrary to expectations, may not save academics any time at all.
+*For educators:* If AI-assisted marking doesn't save time once real oversight is factored in, what would make the trade-off worthwhile for your own workload?
+Source: https://www.timeshighereducation.com/news/retaining-human-oversight-ai-marking-complex-trial-finds
+
+**Asia-Pacific — Singapore, Hong Kong, Japan, Indonesia** — Times Higher Education covers a digital-maturity survey of Asian universities showing sharp divides in AI readiness: 64% of Singaporean and 46% of Hong Kong institutions report having virtual tutors in place, compared with just 14% in Japan and 12% in Indonesia, with weak 5G coverage across the region cited as a key bottleneck for real-time AI applications. Researchers argue that AI's benefits will stay concentrated in a handful of well-resourced systems unless governments coordinate investment in underlying infrastructure, not just in the AI tools themselves.
+*For educators:* If your institution can't yet reliably support real-time AI applications, what's the highest-value AI use case that still works well offline or asynchronously?
+Source: https://www.timeshighereducation.com/news/more-coordinated-investment-needed-unlock-asian-ai-potential
+
+---
+*Note: Direct access to EdSurge's and Times Higher Education's listing/RSS pages returns HTTP 403 in this environment, and search-engine indexing of both outlets' very latest articles lags by days to weeks. Despite an extensive multi-query search effort (100+ queries across this session and a dedicated research agent, including targeted searches for non-English-speaking-country stories), no candidate verifiably published within the last 48 hours could be confirmed from either outlet. The three stories above are the most novel, specific, and verifiably-unused candidates located, with publication dates ranging from late April to late July 2026 based on search-engine metadata.*
