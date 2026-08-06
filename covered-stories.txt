@@ -1,6 +1,3 @@
-https://www.edsurge.com/news/2025-12-11-teaching-machines-to-spot-human-errors-in-math-assignments
-https://www.timeshighereducation.com/news/university-launches-compulsory-artificial-intelligence-module
-https://www.timeshighereducation.com/news/strange-case-einstein-ai-spotlights-chatbot-concerns
 https://www.edsurge.com/news/2025-06-09-a-district-a-diagnostic-and-a-drive-for-ai-readiness
 https://www.timeshighereducation.com/news/caution-urged-over-blanket-roll-out-ai-staff-and-students
 https://www.edsurge.com/news/what-should-students-still-have-to-do-for-themselves
@@ -13,3 +10,6 @@ https://www.timeshighereducation.com/news/retaining-human-oversight-ai-marking-c
 https://www.timeshighereducation.com/news/more-coordinated-investment-needed-unlock-asian-ai-potential
 https://www.timeshighereducation.com/news/mexican-university-suspends-admissions-after-cheating-scandal
 https://www.edsurge.com/news/teachers-forge-ahead-on-integrating-ai
+https://www.edsurge.com/news/what-happens-when-ai-policy-meets-a-real-classroom
+https://www.timeshighereducation.com/news/majority-students-deny-using-ai-when-forbidden-study-finds
+https://www.timeshighereducation.com/news/university-ai-policies-promise-support-deliver-surveillance
