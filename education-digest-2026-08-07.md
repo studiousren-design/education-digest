@@ -1,0 +1,16 @@
+# AI in Education Digest — 2026-08-07
+
+**Hong Kong — The Education University of Hong Kong** — Times Higher Education profiles YoChatGPT!, a collaborative AI-integrated chatroom built by senior lecturer Fridolin Sze Thou Ting that lets an entire class share one live, LLM-powered chatroom with an anonymous-posting option, now used by over 10,000 people in more than 120 countries since its 2024 launch. Ting argues anonymity strips away the stigma of being "the one who didn't know," and that surfacing the chatbot's own errors publicly in front of the class helps students learn to spot bias and hallucination rather than trust AI output blindly.
+*For educators:* Would making AI mistakes visible to your whole class — rather than hidden in each student's private chat window — change how your students relate to the tool's authority?
+Source: https://www.timeshighereducation.com/campus/how-aiintegrated-anonymous-chatroom-boosted-ai-literacy-and-inclusion
+
+**United States — higher education classroom** — Times Higher Education Campus carries an instructor's account of redesigning assessment after concluding generative AI had "destroyed" essay-based grading: instead of papers worth 80% of a grade, students now write a 300-word post-class reflection where a passing grade requires only coherence, a strong grade requires linking the reflection to the day's reading, and an excellent grade requires showing how their thinking was sharpened by outside research or a conversation with a GenAI tool.
+*For educators:* If AI conversation itself became a legitimate, citable source of intellectual growth in your grading rubric, what would stop that from becoming just another box to check?
+Source: https://www.timeshighereducation.com/campus/genai-has-destroyed-grading-and-its-made-me-better-instructor
+
+**United States — Pre-K classrooms** — EdSurge reports on a RAND survey of roughly 2,000 public-school Pre-K teachers finding that 29% now use generative AI in their classrooms — far below the 69% of high school teachers and 42% of elementary teachers who do — with many citing screen-time worries and a near-total absence of formal guidance specific to early childhood settings.
+*For educators:* If AI guidance for your school was written with high schoolers in mind, what would need to change before it made sense for a 4-year-old's classroom?
+Source: https://www.edsurge.com/news/2026-01-05-1-in-3-pre-k-teachers-uses-generative-ai-at-school
+
+---
+*Note: A background research agent ran ~90 targeted queries and the main session ran ~30 more, together spanning site-specific searches, dated-URL guesses, and country combinations across East Asia, South/Southeast Asia, Africa, Latin America, the Middle East, and Europe, specifically hunting for EdSurge/THE stories published in the last 48 hours. Only the first story above (Hong Kong) could be verified as falling in that window (published ~1 day ago, medium-high confidence). The other two are real, specific, non-duplicate, correctly-sourced EdSurge/THE stories — not fabricated or guessed — but are roughly 3 and 7 months old respectively per search-engine metadata. Flagging this rather than presenting them as fresher than they are; search-engine indexing of the most recent 24–48 hours from these two specific outlets is consistently thin.*
