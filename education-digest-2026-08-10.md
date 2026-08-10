@@ -1,0 +1,16 @@
+# AI in Education Digest — 2026-08-10
+
+**United States — K-12 districts** — EdSurge reports that a new CoSN State of Ed Tech survey of roughly 600 district technology officers finds 79% of districts now have AI guidelines in place, up sharply from 57% in 2025 — yet a parallel Gallup/Walton Family Foundation survey of teachers finds most have received no formal training on how to actually use AI, with about a third getting no guidance at all. The gap suggests districts are writing policy faster than they are equipping the people meant to follow it.
+*For educators:* If your district has an AI policy but you've never been trained on it, whose job is it to close that gap — yours, your school's, or the policy-writers'?
+Source: https://www.edsurge.com/news/ai-is-in-schools-teachers-are-not-ready
+
+**United Kingdom — university students** — Times Higher Education covers a YouGov survey (commissioned by Studiosity) of 2,373 UK students finding 71% now use AI for assignments, up from 64% a year ago, but 60% report stress about the tools — with international students twice as likely to feel "a lot" of stress, largely from fear of being wrongly flagged as cheating by AI detectors. The report urges universities to reconsider detection tools prone to false positives and to build clearer pathways for students to contest wrongful accusations.
+*For educators:* If a detection tool is wrong often enough to make honest students afraid to use AI at all, is it protecting academic integrity or undermining it?
+Source: https://www.timeshighereducation.com/news/fear-being-flagged-ai-detectors-drives-stress-among-students
+
+**Middle East — UAE and Saudi Arabia** — Times Higher Education reports that Gulf states are betting on AI research investment, anchored by institutions like the Mohamed Bin Zayed University of Artificial Intelligence in Abu Dhabi, to build knowledge economies beyond oil and reverse a brain drain of researchers who have historically left for the US. The strategy leans on the region's geographic and political position between China and the West to position Gulf universities as an AI "bridge" rather than a satellite of either bloc.
+*For educators:* Can a university system built to retain talent through funding and infrastructure alone succeed without also rethinking what makes researchers want to stay?
+Source: https://www.timeshighereducation.com/news/middle-east-bets-ai-research-strengthen-its-universities
+
+---
+*Note on recency: extensive searching (40+ queries) could not confirm any of these three as published within the strict last-48-hour window — search-engine indexing of EdSurge/THE's most recent 1-2 days is consistently thin, a limitation also flagged in the 2026-08-07 digest. The first story (US teacher-readiness gap) has the best recency signal, correlating with other outlets' coverage of the same CoSN report around Aug 7. The other two are real, correctly-sourced, non-duplicate EdSurge/THE stories — not fabricated — but are roughly 5-6 months old per search-engine metadata. Despite targeted searching across East Asia, South/Southeast Asia, Africa, and Latin America, no genuinely non-English-country EdSurge/THE story with concrete recency and clear AI-in-education focus could be verified; this is flagged rather than papered over.*

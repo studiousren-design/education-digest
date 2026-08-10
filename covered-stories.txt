@@ -1,6 +1,3 @@
-https://www.edsurge.com/news/ai-meets-esl-and-teachers-are-intrigued
-https://www.timeshighereducation.com/news/virtual-lecturers-be-overseen-academics-ai-university
-https://www.timeshighereducation.com/news/ai-risk-university-jobs-despite-staff-believing-roles-are-safe
 https://www.edsurge.com/news/in-rural-districts-ai-resources-for-educators-are-scarce
 https://www.edsurge.com/news/translating-dignity-not-just-language
 https://www.timeshighereducation.com/news/retaining-human-oversight-ai-marking-complex-trial-finds
@@ -13,3 +10,6 @@ https://www.timeshighereducation.com/news/university-ai-policies-promise-support
 https://www.timeshighereducation.com/campus/how-aiintegrated-anonymous-chatroom-boosted-ai-literacy-and-inclusion
 https://www.timeshighereducation.com/campus/genai-has-destroyed-grading-and-its-made-me-better-instructor
 https://www.edsurge.com/news/2026-01-05-1-in-3-pre-k-teachers-uses-generative-ai-at-school
+https://www.edsurge.com/news/ai-is-in-schools-teachers-are-not-ready
+https://www.timeshighereducation.com/news/fear-being-flagged-ai-detectors-drives-stress-among-students
+https://www.timeshighereducation.com/news/middle-east-bets-ai-research-strengthen-its-universities
