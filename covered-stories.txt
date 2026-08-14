@@ -1,6 +1,3 @@
-https://www.edsurge.com/news/what-happens-when-ai-policy-meets-a-real-classroom
-https://www.timeshighereducation.com/news/majority-students-deny-using-ai-when-forbidden-study-finds
-https://www.timeshighereducation.com/news/university-ai-policies-promise-support-deliver-surveillance
 https://www.timeshighereducation.com/campus/how-aiintegrated-anonymous-chatroom-boosted-ai-literacy-and-inclusion
 https://www.timeshighereducation.com/campus/genai-has-destroyed-grading-and-its-made-me-better-instructor
 https://www.edsurge.com/news/2026-01-05-1-in-3-pre-k-teachers-uses-generative-ai-at-school
@@ -13,3 +10,6 @@ https://www.edsurge.com/news/anthropic-introduces-claude-for-teachers
 https://www.edsurge.com/news/i-used-ai-to-build-ai-resistant-assignments
 https://www.timeshighereducation.com/campus/heres-how-show-students-what-responsible-ai-use-looks
 https://www.edsurge.com/news/the-k-12-silo-wont-survive-ai-but-our-relationships-might
+https://www.timeshighereducation.com/news/large-language-models-reduce-originality-research-proposals
+https://www.timeshighereducation.com/campus/using-ai-create-practice-opportunities-online-students-need
+https://www.edsurge.com/news/what-do-the-youngest-learners-in-the-building-actually-need
