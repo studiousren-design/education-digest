@@ -1,0 +1,13 @@
+# AI in Education Digest — August 20, 2026
+
+**United States** — EdSurge reporting traces where AI costs actually accumulate in K-12 districts, from the assignment page to the data center electricity bill, noting that unlike traditional software that gets cheaper as it scales, generative AI keeps generating new costs with every single use. Districts weighing AI rollouts have mostly focused on curriculum and instruction, the piece argues, while the growing invoice — and who ultimately pays it — has gotten far less scrutiny.
+*For educators:* If your school's AI tools suddenly cost ten times more per use, which current uses would survive the cut — and what would that reveal about which ones were worth doing in the first place?
+Source: https://www.edsurge.com/news/what-is-ai-actually-costing-schools
+
+**Latin America / Caribbean** — At LACCEI 2026, a multi-country gathering of university leaders, researchers and administrators from over 270 Latin American and Caribbean institutions across 29 countries, sessions on academic integrity concluded that the region's universities are moving past ad hoc experimentation with generative AI toward institutional policy, educator support and transparent, multilingual-aware practices for responsible adoption. The emphasis was on building durable institutional strategies rather than reactive bans, reflecting a region managing AI's arrival across dozens of languages and widely varying resource levels.
+*For educators:* What would an AI integrity policy look like if it were designed from the start for multilingual campuses and uneven access to technology, rather than adapted from a policy written for neither?
+Source: https://www.timeshighereducation.com/campus/strikeplagiarismcom-laccei-2026-supporting-responsible-ai-adoption-latin-america
+
+**Global / Higher Education Policy** — In a Times Higher Education opinion piece, philosophers Jelena Belic (Leiden University) and Kritika Maheshwari (TU Delft) push back on the growing economist-driven argument that universities must reorganize curricula around AI skills to prepare students for an AI-changing labour market. They argue this ignores existing evidence that AI use can undermine learning outcomes, and that treating AI fluency as an unquestioned curricular priority risks teaching students "counterproductive" skills in the name of employability.
+*For educators:* When preparing students for the job market and teaching them well come into conflict over AI, which one should actually win — and who gets to decide?
+Source: https://www.timeshighereducation.com/opinion/reshaping-universities-suit-untested-ai-economy-wrong
