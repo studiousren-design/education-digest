@@ -1,6 +1,3 @@
-https://www.edsurge.com/news/the-k-12-silo-wont-survive-ai-but-our-relationships-might
-https://www.timeshighereducation.com/news/large-language-models-reduce-originality-research-proposals
-https://www.timeshighereducation.com/campus/using-ai-create-practice-opportunities-online-students-need
 https://www.edsurge.com/news/what-do-the-youngest-learners-in-the-building-actually-need
 https://www.timeshighereducation.com/news/students-confused-about-assessment-purpose-age-ai
 https://www.edsurge.com/news/on-ai-policy-students-have-plenty-to-say
@@ -13,3 +10,6 @@ https://www.timeshighereducation.com/depth/universities-ai-embrace-undermining-t
 https://www.edsurge.com/news/what-is-ai-actually-costing-schools
 https://www.timeshighereducation.com/campus/strikeplagiarismcom-laccei-2026-supporting-responsible-ai-adoption-latin-america
 https://www.timeshighereducation.com/opinion/reshaping-universities-suit-untested-ai-economy-wrong
+https://www.timeshighereducation.com/news/southampton-dumps-turnitin-over-use-students-work-train-ai
+https://www.edsurge.com/news/ai-is-in-schools-teachers-are-not-ready
+https://www.timeshighereducation.com/news/asia-embraces-philosophy-and-ai-courses
