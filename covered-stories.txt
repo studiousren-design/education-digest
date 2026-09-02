@@ -1,6 +1,3 @@
-https://www.timeshighereducation.com/news/large-language-models-reduce-originality-research-proposals
-https://www.timeshighereducation.com/news/chinas-start-universities-come-age
-https://www.timeshighereducation.com/campus/safeguards-against-genai-hallucination-literature-reviews
 https://www.timeshighereducation.com/news/virtual-lecturers-be-overseen-academics-ai-university
 https://www.edsurge.com/news/ai-meets-esl-and-teachers-are-intrigued
 https://www.edsurge.com/news/on-ai-policy-students-have-plenty-to-say
@@ -13,3 +10,6 @@ https://www.edsurge.com/news/what-is-ai-actually-costing-schools
 https://www.edsurge.com/news/ai-can-help-one-of-k-12s-biggest-challenges-middle-school-reading
 https://www.timeshighereducation.com/campus/understanding-gap-and-how-ai-can-help-university-educators-close-it
 https://www.edsurge.com/news/student-artists-wrestle-with-ais-promise-and-peril
+https://www.timeshighereducation.com/news/elite-indian-engineering-colleges-offer-medical-degrees
+https://www.timeshighereducation.com/campus/case-omnichannel-ai-assistant
+https://www.edsurge.com/news/teachers-forge-ahead-on-integrating-ai
