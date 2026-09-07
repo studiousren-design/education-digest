@@ -1,6 +1,3 @@
-https://www.edsurge.com/news/protecting-the-student-mind-in-the-age-of-ai
-https://www.timeshighereducation.com/news/students-confused-about-assessment-purpose-age-ai
-https://www.edsurge.com/news/what-is-ai-actually-costing-schools
 https://www.edsurge.com/news/ai-can-help-one-of-k-12s-biggest-challenges-middle-school-reading
 https://www.timeshighereducation.com/campus/understanding-gap-and-how-ai-can-help-university-educators-close-it
 https://www.edsurge.com/news/student-artists-wrestle-with-ais-promise-and-peril
@@ -13,3 +10,6 @@ https://www.timeshighereducation.com/news/caution-urged-over-blanket-roll-out-ai
 https://www.timeshighereducation.com/campus/how-documentgrounded-ai-can-support-inclusive-learning
 https://www.timeshighereducation.com/campus/make-ai-literacy-foundational-element-your-course-design
 https://www.timeshighereducation.com/campus/three-shifts-course-design-update-pedagogies-ai-era
+https://www.timeshighereducation.com/news/checkmate-looms-traditional-tests-amid-ai-glasses-epidemic
+https://www.timeshighereducation.com/news/virtual-lecturers-be-overseen-academics-ai-university
+https://www.edsurge.com/news/ai-is-in-schools-teachers-are-not-ready
