@@ -1,0 +1,13 @@
+# Education Digest — September 10, 2026
+
+**[United States — Early Childhood / Preschool]** — The internet is increasingly flooded with AI-generated "baby slop" videos aimed at preschoolers and kindergartners: colorful, fast-cut clips that critics say carry little real educational substance. Teachers and instructional technology coordinators warn the videos' inaccuracies create a "cognitive disparity" that makes it harder for young children to distinguish fantasy from reality.
+*For educators:* If a four-year-old can't tell an AI-generated cartoon from an accurate depiction of the world, how much of your "screen time" guidance needs to change before the content itself even counts as educational?
+Source: [https://www.edsurge.com/news/ai-videos-are-warping-early-learning-teachers-say-heres-how-theyre-responding](https://www.edsurge.com/news/ai-videos-are-warping-early-learning-teachers-say-heres-how-theyre-responding)
+
+**[United States — K-12 English Classroom, Brooklyn]** — Brooklyn English and special-education teacher Melinda Medina recounts a student who wasn't struggling with a difficult text but was skipping the struggle altogether by leaning on AI, a moment that shifted her focus from catching plagiarism to protecting the act of grappling with hard material. She and a colleague now redesign assignments so that visible struggle, not just a finished product, becomes part of what gets graded.
+*For educators:* If AI can quietly remove the productive struggle from an assignment, is the fix better detection — or redefining what counts as evidence of learning in the first place?
+Source: [https://www.edsurge.com/news/two-students-two-questions-that-wouldnt-let-go](https://www.edsurge.com/news/two-students-two-questions-that-wouldnt-let-go)
+
+**[United Kingdom — Higher Education Policy]** — Universities UK unveiled a "Future Jobs Roadmap" calling for every undergraduate to get access to AI tools and for every degree course to have a lecturer designated as an "AI trailblazer," tying AI fluency directly to graduate employability targets like reaching 50% of students in meaningful work-based learning by 2030. The plan also pairs this with a new "lifetime entitlement" to careers support that follows graduates beyond university.
+*For educators:* Naming one "AI trailblazer" lecturer per course signals institutional commitment — but does it also let every other lecturer treat AI fluency as somebody else's job?
+Source: [https://www.timeshighereducation.com/news/all-undergraduates-should-get-work-based-learning-v-cs-say](https://www.timeshighereducation.com/news/all-undergraduates-should-get-work-based-learning-v-cs-say)
