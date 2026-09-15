@@ -1,6 +1,3 @@
-https://www.edsurge.com/news/on-ai-policy-students-have-plenty-to-say
-https://www.timeshighereducation.com/news/strange-case-einstein-ai-spotlights-chatbot-concerns
-https://www.timeshighereducation.com/news/more-coordinated-investment-needed-unlock-asian-ai-potential
 https://www.timeshighereducation.com/news/ai-marking-trial-not-looking-replace-humans
 https://www.timeshighereducation.com/campus/how-support-students-learn-about-and-beyond-ai
 https://www.edsurge.com/news/anthropic-introduces-claude-for-teachers
@@ -13,3 +10,6 @@ https://www.edsurge.com/news/a-principal-and-a-student-reviewed-the-new-chatgpt-
 https://www.edsurge.com/news/parents-are-bringing-ai-to-the-iep-meeting-heres-how-teachers-should-respond
 https://www.timeshighereducation.com/news/malaysian-female-liberal-arts-college-addresses-critical-gaps
 https://www.timeshighereducation.com/campus/ais-fluent-answers-hide-bias-heres-how-teach-students-see-it
+https://www.timeshighereducation.com/news/latin-america-must-address-uneven-ai-adoption-across-region
+https://www.edsurge.com/news/new-york-and-los-angeles-ban-student-facing-ai-for-now-should-other-schools-follow
+https://www.edsurge.com/news/student-artists-wrestle-with-ais-promise-and-peril
