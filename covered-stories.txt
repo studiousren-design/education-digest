@@ -1,6 +1,3 @@
-https://www.timeshighereducation.com/news/indifferent-responses-student-enquiries-costing-enrolments
-https://www.timeshighereducation.com/news/fear-being-flagged-ai-detectors-drives-stress-among-students
-https://timeshighereducation.com/news/china-urges-universities-differentiate-top-down-reforms
 https://www.timeshighereducation.com/news/two-thirds-universities-report-ai-use-among-doctoral-students
 https://www.timeshighereducation.com/news/looming-eu-ai-act-could-force-universities-change-everything
 https://www.timeshighereducation.com/news/flexibility-needed-keep-ai-degrees-relevant-demand-soars
@@ -13,3 +10,6 @@ https://www.timeshighereducation.com/news/uae-big-winner-wests-anti-internationa
 https://www.timeshighereducation.com/node/745326
 https://edsurge.com/news/will-kids-pay-the-price-for-ai-panic
 https://phys.org/news/2026-10-ai-feedback-ready-students-higher.html
+https://www.edsurge.com/news/study-edtech-is-rushing-ai-integration-before-proving-it-works
+https://www.edsurge.com/news/can-schools-trust-ai-features-in-edtech-products
+https://www.timeshighereducation.com/news/openai-campus-little-choice-be-complicit
