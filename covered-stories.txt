@@ -1,6 +1,3 @@
-https://www.edsurge.com/news/study-edtech-is-rushing-ai-integration-before-proving-it-works
-https://www.edsurge.com/news/can-schools-trust-ai-features-in-edtech-products
-https://www.timeshighereducation.com/news/openai-campus-little-choice-be-complicit
 https://www.timeshighereducation.com/news/africa-has-crucial-role-advancing-study-ai-say-professors
 https://www.timeshighereducation.com/news/more-universities-end-turnitin-contracts-concerns-mount
 https://www.timeshighereducation.com/news/universities-risk-over-assessing-response-ai
@@ -13,3 +10,6 @@ https://www.timeshighereducation.com/news/looming-eu-ai-act-could-force-universi
 https://www.timeshighereducation.com/news/nine-10-uk-undergraduates-now-using-ai-assessments-survey
 https://www.edsurge.com/news/anthropic-introduces-claude-for-teachers
 https://www.timeshighereducation.com/news/strange-case-einstein-ai-spotlights-chatbot-concerns
+https://timeshighereducation.com/campus/help-undergraduates-sustain-critical-ai-use-under-deadline-pressure
+https://www.timeshighereducation.com/news/asia-embraces-philosophy-and-ai-courses
+https://www.timeshighereducation.com/news/students-worry-they-learn-nothing-ai-want-it-anyway
